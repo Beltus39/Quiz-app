@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QUIZ APP</string>
+
+    <string name="headig">General Science Test</string>
+
+    <string name="candidate_name">Candidates Name</string>
+
+    <string name="name_field">Enter your name here</string>
+
+    <string name="instruction">*Answer the following Questions.</string>
+
+    <string name="question1">1. What is the color of cobalt?</string>
+    <string name="question1_choice1">Green</string>
+    <string name="question1_choice2">Black</string>
+    <string name="question1_choice3">Blue</string>
+
+    <string name="question2">2. What is the affected human organ when one is suffering from Hepatitis?</string>
+
+    <string name="question3">3. Select two primary colors from below.</string>
+    <string name="question3_choice1">Red</string>
+    <string name="question3_choice2">Green</string>
+    <string name="question3_choice3">Blue</string>
+    <string name="question3_choice4">White</string>
+
+    <string name="question4">4. Which of these planets is nearest to the Sun?</string>
+    <string name="question4_choice1">Jupiter</string>
+    <string name="question4_choice2">Mercury</string>
+    <string name="question4_choice3">Earth</string>
+
+    <string name="question5">5. What is the unit of light intensity?</string>
+    <string name="hint">answer here</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
